@@ -20,36 +20,15 @@
 Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student at **University of Information Technology, VNU-HCM**. I’m passionate about **ASIC Design** and **Embedded Systems (IoT)**, where I love designing high-performance microchips and smart, connected solutions. My goal is to push the boundaries of hardware innovation and bring ideas to life through technology. Curious? Let’s embark on this tech adventure together! 🎉
 
 ## 💻 Tech Stack I’m Exploring
-- **Hardware Design**: Verilog, VHDL, ASIC Flow (Synthesis, Place & Route).
-- **Programming**: C/C++, Python, Embedded C.
-- **Low-Level Programming**: Assembly 8051euv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20with%20me" alt="linkedin" style="margin: 0 5px;" height="28"/>
-  </a>
-  <a href="mailto:tronghieuv@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20me" alt="gmail" style="margin: 0 5px;" height="28"/>
-  </a>
-  <a href="https://www.facebook.com/tronghieuv" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=Say%20Hi!" alt="facebook" style="margin: 0 5px;" height="28"/>
-  </a>
-</div>
-
-<hr style="border: 2px dashed #3498db;">
-
-## 🚀 About Me - Crafting Tech Innovations
-Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student at **University of Information Technology, VNU-HCM**. I’m passionate about **ASIC Design** and **Embedded Systems (IoT)**, where I love designing high-performance microchips and smart, connected solutions. My goal is to push the boundaries of hardware innovation and bring ideas to life through technology. Curious? Let’s embark on this tech adventure together! 🎉
-
-## 💻 Tech Stack I’m Exploring
 - **Hardware Design**: Verilog
 - **Programming**: C/C++, Python, Embedded C.
 - **Low-Level Programming**: Assembly MIPS, Assembly 8051/8086.
 - **Scripting**: Bash Linux.
 - **Microcontrollers**: 8051, Arduino, STM32, ESP32.
-- **Tools**: Proteus, Quartus II, ModelSim, Keil, STM32 Cube, Git.
+- **Tools**: Proteus, KiCad, Quartus II, ModelSim, Keil, STM32 Cube.
 - **Protocols**: I2C, SPI, UART, Bluetooth, Wifi (API).
 
 ## 🏅 My Shining Achievements
-- 
-- 
 - 
 
 ## 🎓 Courses
@@ -62,8 +41,8 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Object-Oriented Programming (9.5/10)**:
   
 ## 📩 Let’s Connect
-- **Email**: [22520450@gm.uit.edu.vn](mailto:22520450@gm.uit.edu.vn) *(Replace with your email)*
-- **Phone**: +84 369 420 219 *(Replace with your phone number)*
+- **Email**: [22520450@gm.uit.edu.vn](mailto:22520450@gm.uit.edu.vn)
+- **Phone**: +84 369 420 219 
 - **Drop me a message** to collaborate on hardware projects or geek out about tech! 😄
 
 ## 🌱 Projects in Progress
