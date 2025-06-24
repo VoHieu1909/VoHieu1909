@@ -46,22 +46,24 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Microcontrollers**: 8051, Arduino, STM32, ESP32.
 - **Tools**: Proteus, Quartus II, ModelSim, Keil, STM32 Cube, Git.
 - **Protocols**: I2C, SPI, UART, Bluetooth, Wifi (API).
-<--
+
 ## 🏅 My Shining Achievements
 - 
 - 
 - 
 
-## 🎓 Certifications
-- **ASIC Design Fundamentals**: [Issued Mar 2024](https://example.com/certificate1)
-- **Embedded Systems Programming**: [Issued Jun 2024](https://example.com/certificate2)
-- **IoT with Raspberry Pi**: [Issued Sep 2024](https://example.com/certificate3)
-- **Verilog for FPGA**: [Issued Jan 2025](https://example.com/certificate4)
--->
+## 🎓 Courses
+- **SoC System Design (8.9/10)**: 
+- **Digital System Design with HDL (pending)**: 
+- **Embedded Systems Design (9.3/10)**: 
+- **Microcontroller & Microprocessor (8.8/10)**: 
+- **Operating System (9.6/10)**: 
+- **Data Structure and Algorithm (7.8/10)**:
+- **Object-Oriented Programming (9.5/10)**:
   
 ## 📩 Let’s Connect
-- **Email**: [tronghieuv@example.com](mailto:tronghieuv@example.com) *(Replace with your email)*
-- **Phone**: +84 123 456 789 *(Replace with your phone number)*
+- **Email**: [22520450@gm.uit.edu.vn](mailto:22520450@gm.uit.edu.vn) *(Replace with your email)*
+- **Phone**: +84 369 420 219 *(Replace with your phone number)*
 - **Drop me a message** to collaborate on hardware projects or geek out about tech! 😄
 
 ## 🌱 Projects in Progress
