@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/c236a010-ad6d-4bf6-b1c6-59fb6b9e8599)## Hi there 👋
-
-**VoHieu1909/VoHieu1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+##About me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Medical AI Lab - Faculty Computer Engineering, University of Information Technology
