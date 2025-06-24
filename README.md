@@ -27,9 +27,9 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Protocols**: I2C, SPI, UART.
 
 ## 🏅 My Shining Achievements
-- **Top 5 in FPGA Design Challenge 2024 - UIT** 🌟
-- **Best IoT Prototype Award** at UIT Innovation Fair 2023.
-- **Honorable Mention for ASIC Research** at UIT Tech Symposium 2024.
+- 
+- 
+- 
 
 ## 🎓 Certifications
 - **ASIC Design Fundamentals**: [Issued Mar 2024](https://example.com/certificate1)
@@ -43,8 +43,8 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Drop me a message** to collaborate on hardware projects or geek out about tech! 😄
 
 ## 🌱 Projects in Progress
-- **[ASIC Power Optimizer]**: A low-power ASIC design project (stay tuned for code!).
-- **[IoT Smart Home Hub]**: An ESP32-based system for smart home automation (updates coming soon).
+- 
+- 
 
 ## 🎯 My Future Goals
 - Master ASIC physical design and verification techniques.
