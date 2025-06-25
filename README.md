@@ -45,9 +45,12 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Phone**: +84 369 420 219 
 - **Drop me a message** to collaborate on hardware projects or geek out about tech! 😄
 
-## 🌱 Projects in Progress
-- 
-- 
+## 🌱 Projects
+- Led Control with 8051
+- Weather Station with STM32, ESP32
+- MIPS Architecture with Verilog
+- AES-128 for SoC System
+- EEG with Arduino 33 BLE
 
 ## 🎯 My Future Goals
 - Master ASIC physical design and verification techniques.
