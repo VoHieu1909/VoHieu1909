@@ -26,7 +26,7 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Scripting**: Bash Linux.
 - **Microcontrollers**: 8051, Arduino, STM32, ESP32.
 - **Tools**: Proteus, KiCad, Quartus II, ModelSim, Keil, STM32 Cube.
-- **Protocols**: I2C, SPI, UART, Bluetooth, Wifi (API).
+- **Protocols**: I2C, SPI, UART, Bluetooth, Wifi.
 
 ## 🏅 My Shining Achievements
 - 
