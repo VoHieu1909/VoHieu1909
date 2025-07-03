@@ -28,9 +28,6 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Tools**: Proteus, KiCad, Quartus II, ModelSim, Keil, STM32 Cube.
 - **Protocols**: I2C, SPI, UART, Bluetooth, Wifi.
 
-## 🏅 My Shining Achievements
-- 
-
 ## 🎓 Courses
 - **SoC System Design (8.9/10)**: 
 - **Digital System Design with HDL (pending)**: 
