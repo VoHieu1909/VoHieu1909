@@ -28,15 +28,6 @@ Hello, world! I’m **Trong-Hieu Vo**, a driven **Computer Engineering** student
 - **Tools**: Proteus, KiCad, Quartus II, ModelSim, Keil, STM32 Cube.
 - **Protocols**: I2C, SPI, UART, Bluetooth, Wifi...
 
-## 🎓 Courses
-- **SoC System Design (8.9/10)**: 
-- **Digital System Design with HDL (pending)**: 
-- **Embedded Systems Design (9.3/10)**: 
-- **Microcontroller & Microprocessor (8.8/10)**: 
-- **Operating System (9.6/10)**: 
-- **Data Structure and Algorithm (7.8/10)**:
-- **Object-Oriented Programming (9.5/10)**:
-  
 ## 📩 Let’s Connect
 - **Email**: [22520450@gm.uit.edu.vn](mailto:22520450@gm.uit.edu.vn)
 - **Phone**: +84 369 420 219 
